@@ -57,13 +57,7 @@ To scrape real-world bike data from an online source, clean and process it, and 
 - Enhanced Python and data visualization skills  
 - Learned how to analyze real-world data using EDA principles  
 
----
 
-### 🖼️ Sample Visualizations
-> Add your screenshots here  
-> `![Visualization Example](images/price_distribution.png)`
-
----
 
 ### ⚙️ How to Run the Project
 
@@ -99,10 +93,3 @@ Run each cell in order to:
 ### 🙏 Acknowledgment
 Thanks to **Innomatics Research Labs** for their mentorship and guidance in completing this project successfully.  
 
----
-
-### 💬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yamsani%20Kalanjan-blue?logo=linkedin)](https://www.linkedin.com)  
-📧 **Email:** yourname@example.com  
-
----
